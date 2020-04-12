@@ -10,8 +10,8 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
-    "dev": "webpack-dev-server",
-    "start": "webpack"
+    "start": "webpack-dev-server",
+    "bundle": "webpack"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
