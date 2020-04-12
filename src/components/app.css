@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.reportsWrapper {
+  max-width: 900px;
+}

@@ -1,0 +1,74 @@
+{
+  "payload": [
+    {
+      "title": "Utility-first CSS: The highs and lows of styling web sites",
+      "author": "Phil Hawksworth",
+      "language": "EN",
+      "level": "Intermediate",
+      "id": "1"
+    },
+    {
+      "title": "Все тонкости композиции и роутинга при использовании Relay Modern",
+      "author": "Александр Руденко",
+      "language": "RU",
+      "level": "Advanced",
+      "id": "2"
+    },
+    {
+      "title": "Exploring the hidden potential of sound data",
+      "author": "Charlie Gerard",
+      "language": "EN",
+      "level": "Hardcore",
+      "id": "3"
+    },
+    {
+      "title": "Vue.js: Forms & Validations in the Composition Age",
+      "author": "Damian Dulisz",
+      "language": "EN",
+      "level": "Academic",
+      "id": "4"
+    },
+    {
+      "title": "Эволюция отрисовки текста на Canvas. Про Flash, IE 11, дизайнеров и клинопись",
+      "author": "Андрей Чураков",
+      "language": "RU",
+      "level": "Intermediate",
+      "id": "5"
+    },
+    {
+      "title": "Рефлексия в TypeScript",
+      "author": "Александр Богачёв",
+      "language": "RU",
+      "level": "Hardcore",
+      "id": "6"
+    },
+    {
+      "title": "Tempus Fugit: A story of time",
+      "author": "Ujjwal Sharma",
+      "language": "EN",
+      "level": "Advanced",
+      "id": "7"
+    },
+    {
+      "title": "Архитектура сложного приложения на примере Nest",
+      "author": "Андрей Мелихов",
+      "language": "RU",
+      "level": "Academic",
+      "id": "8"
+    },
+    {
+      "title": "Rise of the robots",
+      "author": "Theodore Vorillas",
+      "language": "EN",
+      "level": "Intermediate",
+      "id": "9"
+    },
+    {
+      "title": "Типобезопасность для GraphQL без лишних усилий",
+      "author": "Роман Парадеев",
+      "language": "RU",
+      "level": "Hardcore",
+      "id": "10"
+    }
+  ]
+}
